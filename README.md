@@ -2,6 +2,10 @@
 -------------------------------------
 (выгрузить в корень \OSPanel\domains\)
 -------------------------------------
+    http://yii2.local/blog 
+    http://yii2.local/admin
+    http://yii2.local/admin/blog
+    http://yii2.local/user
 login: admin@admin.ru
 password: Cl0sed
 
