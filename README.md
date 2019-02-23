@@ -8,7 +8,8 @@
     http://yii2.local/user
 login: admin@admin.ru
 password: Cl0sed
-
+    
+    D:\OSPanel\domains\yii2.local\yii2.sql
     D:\OSPanel\domains\yii2.local\common\config
         'db' => [
             'class' => 'yii\db\Connection',
