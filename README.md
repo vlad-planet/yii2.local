@@ -2,7 +2,7 @@
 -------------------------------------
 (выгрузить в корень \OSPanel\domains\)
 -------------------------------------
-ссылки:
+    ссылки:
     http://yii2.local/blog 
     http://yii2.local/admin
     http://yii2.local/admin/blog
