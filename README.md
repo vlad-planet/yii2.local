@@ -9,7 +9,14 @@
 login: admin@admin.ru
 password: Cl0sed
 
-
+    D:\OSPanel\domains\yii2.local\common\config
+        'db' => [
+            'class' => 'yii\db\Connection',
+            'dsn' => 'mysql:host=localhost;dbname=yii2',
+            'username' => 'root',
+            'password' => '',
+            'charset' => 'utf8',
+        ],
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
